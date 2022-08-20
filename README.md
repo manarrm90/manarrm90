@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Manar<br>A Computer science student from Saudi Arabia<br>💡 Ask me about: - Anything, I'm always happy to help in any way that I can. You can find me on : [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manarrm9) 
+Hi 👋, I'm Manar<br>A Computer science student from Saudi Arabia<br>
 
 ## 🌐 Socials:
 💡 Ask me about: - Anything, I'm always happy to help in any way that I can. You can find me on : [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manarrm9) 
